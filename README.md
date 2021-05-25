@@ -27,7 +27,3 @@ Here are some ideas to get you started:
 
 [![Linyxus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=linyxus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linyxus&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
