@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - Love programming language theories and functional programming.
 - I wrote a lot of Haskell and Scala!
 
-![Linyxus's GitHub stats](https://github-readme-stats.vercel.app/api?username=linyxus&show_icons=true&theme=radical)
+![Linyxus's GitHub stats](https://github-readme-stats-linyxus.vercel.app/api?username=linyxus&show_icons=true)
 
 ---
 
-[![Linyxus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=linyxus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Linyxus's wakatime stats](https://github-readme-stats-linyxus.vercel.app/api/wakatime?username=linyxus)
 
