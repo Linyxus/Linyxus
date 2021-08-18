@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ### This is Linyxus
 
-- Currently an undergraduate at School of Computer Science, BUPT.
-- Doing research on graph machine learning.
-- Contributor of dotty.
-- Love programming language theories and functional programming.
+- I am an undergraduate at School of Computer Science, BUPT. Also an incoming Ph.D. student at IIIS, Tsinghua University.
+- I am doing research on graph machine learning.
+- I contribute to Dotty, the Scala 3 compiler.
+- I love programming language theories and functional programming.
 - I wrote a lot of Haskell and Scala!
 
 ![Linyxus's GitHub stats](https://github-readme-stats-linyxus.vercel.app/api?username=linyxus&show_icons=true)
