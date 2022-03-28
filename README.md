@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/6e64e8a4-5f47-4900-aa73-7ea6d02df098.svg)](https://wakatime.com/@6e64e8a4-5f47-4900-aa73-7ea6d02df098)
 
 - I am an undergraduate at School of Computer Science, BUPT. <!-- Also an incoming Ph.D. student at IIIS, Tsinghua University. -->
-- I am doing research on graph machine learning.
 - I contribute to Dotty, the Scala 3 compiler.
+- My research interests: theory and practice of GADTs in Scala; applying language models in program synthesis and theorem proving; graph contrastive learning.
 - I love programming language theories and functional programming.
 - I wrote a lot of Haskell and Scala!
 
