@@ -1,29 +1,13 @@
-<!--
-**Linyxus/Linyxus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### This is Linyxus
 
 [![wakatime](https://wakatime.com/badge/user/6e64e8a4-5f47-4900-aa73-7ea6d02df098.svg)](https://wakatime.com/@6e64e8a4-5f47-4900-aa73-7ea6d02df098)
 
-- I am an undergraduate at School of Computer Science, BUPT. <!-- Also an incoming Ph.D. student at IIIS, Tsinghua University. -->
-- I contribute to Dotty, the Scala 3 compiler.
-- My research interests: theory and practice of GADTs in Scala; applying language models in program synthesis and theorem proving; graph contrastive learning.
-- I love programming language theories and functional programming.
-- I wrote a lot of Haskell and Scala!
+- A programming language hacker at LAMP.
+- Now, I am doing research around Scala's type systems with a specific emphasis on capture calculus.
+- When I'm not occupied with paper writing and the intricacies of induction on derivation trees, I submit patches to Dotty, the Scala 3 compiler.
+- Prior to embarking on my journey with type systems, I did research in graph machine learning and large code language models, during which I wrote a lot of Python.
 
-![Linyxus's GitHub stats](https://github-readme-stats-linyxus.vercel.app/api?username=linyxus&show_icons=true)
+<!-- ![Linyxus's GitHub stats](https://github-readme-stats-linyxus.vercel.app/api?username=linyxus&show_icons=true) -->
 
 ---
 
