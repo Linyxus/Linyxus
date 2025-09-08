@@ -11,5 +11,5 @@
 
 ---
 
-![Linyxus's wakatime stats](https://github-readme-stats-linyxus.vercel.app/api/wakatime?username=linyxus)
+[![Linyxus's wakatime stats](https://github-readme-stats-linyxus.vercel.app/api/wakatime?username=linyxus)](https://wakatime.com/@linyxus)
 
